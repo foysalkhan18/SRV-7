@@ -1,4 +1,4 @@
 # SRV-7
-This is my First Git Reponsitory.
+This is my first Git Respository.
 <br>
-Author - Foysal Khan
+Author ~ Foysal Khan (SRV-7)
